@@ -1,6 +1,4 @@
-# ds-project-template
-
-Template for creating ds simple projects
+# EDA Project - House Sales Analysis in King County
 
 ## Requirements
 
