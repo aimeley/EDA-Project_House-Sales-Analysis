@@ -1,6 +1,6 @@
 # EDA Project - House Sales Analysis in King County
 
-EDA.ipynb
+Please check the details in the notebook: EDA.ipynb
 
 ## Requirements
 
