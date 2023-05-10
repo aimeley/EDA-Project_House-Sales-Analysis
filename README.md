@@ -1,5 +1,7 @@
 # EDA Project - House Sales Analysis in King County
 
+EDA.ipynb
+
 ## Requirements
 
 - pyenv
